@@ -12,3 +12,4 @@ docs/_build/
 *.xlsx
 *.txt
 !requirements.txt
+.venv/
